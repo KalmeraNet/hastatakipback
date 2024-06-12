@@ -31,3 +31,4 @@
 /workspaces/HastaTakipBack/obj/Debug/net8.0/HastaTakipBack.pdb
 /workspaces/HastaTakipBack/obj/Debug/net8.0/HastaTakipBack.genruntimeconfig.cache
 /workspaces/HastaTakipBack/obj/Debug/net8.0/ref/HastaTakipBack.dll
+/workspaces/HastaTakipBack/obj/Debug/net8.0/HastaTakipBack.sourcelink.json

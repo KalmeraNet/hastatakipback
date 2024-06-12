@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HastaTakipBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53daea8fa28589ee46a9d4903698859faa9b4047")]
 [assembly: System.Reflection.AssemblyProductAttribute("HastaTakipBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HastaTakipBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
