@@ -22,7 +22,7 @@ public static class FormsFunctions
         var result = new FormsResult
         {
             Id = 1,
-            Name = "Lorem ",
+            Name = "Adnre Gozubuyukoglu",
             Title = "Developer",
         };
 
