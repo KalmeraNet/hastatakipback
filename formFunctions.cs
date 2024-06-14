@@ -26,7 +26,6 @@ public static class FormFunctions
 
         var result = new FormResult
         {
-
             Id = 1,
             Name = "Lorem",
             Title = "Lorem ipsum",
@@ -35,8 +34,6 @@ public static class FormFunctions
             Date = "Lorem ipsum",
             Po = "Lorem ipsum",
             Status = false,
-
-
         };
 
         return TypedResults.Ok(result);

@@ -23,14 +23,26 @@ public static class LocationFunctions
         var result = new LocationResult[]{
        new LocationResult {
             Id = 1,
-            Name = "Lorem",
-            Title = "Lorem ipsum",
+            Name = "Ege University School of Medicine",
+            Title = "Cardiology Department",
 
         },
        new LocationResult {
             Id = 2,
-            Name = "Lorem",
-            Title = "Lorem ipsum",
+            Name = "Istanbul University Cerrahpasa",
+            Title = "Medical Faculty",
+
+        },
+       new LocationResult {
+            Id = 3,
+            Name = "Aydin Adnan Menderes University",
+            Title = "Nephrology",
+
+        },
+       new LocationResult {
+            Id = 4,
+            Name = "Eskisehir Osmangazi University",
+            Title = "Cardio",
 
         },
     };
